@@ -202,7 +202,7 @@ a {
   grid-gap: 2rem;
 }
 #activities .activities-container img {
-  transition: 1s all ease-in-out;
+  transition: 0.4s all ease-in-out;
   filter: grayscale(0);
 }
 #activities .activities-container img:hover {

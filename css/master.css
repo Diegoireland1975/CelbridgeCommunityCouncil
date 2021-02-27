@@ -307,6 +307,9 @@ a {
   transform: scale(0.9);
 }
 /* Form */
+input {
+  outline: 0;
+}
 #contact-form {
   padding: 2rem 0;
 }

@@ -293,6 +293,7 @@ a {
   grid-gap: 4rem;
   margin-bottom: 2rem;
 }
+
 #youthcafe .youthcafe-container1 p {
   color: var(--secondary-color);
   font-size: 0.9rem;
@@ -374,6 +375,11 @@ input {
   font-size: 12px;
 }
 
+.involved {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
 /* Footer */
 footer {
   height: 50px;
